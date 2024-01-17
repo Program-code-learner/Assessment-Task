@@ -1,0 +1,28 @@
+Q-> Why do you like to join as a Software developer?
+-> I have a genuine interest and passion for technology. I enjoy exploring new gadgets, applications, 
+and understanding how things work in the digital world.
+
+Q-> List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+-> apple vision pro- The way it uses cameras and the pintch controll system it look amazing and feels
+like we are living future.
+
+-> Youtube- Amazing tool students can learn anything from here, also good for fun and entertainment
+
+-> Ai/ML- One of the example who uses ai/ml is chatgpt bt there are many other for ex- some tools can
+draw a whole painting with just description, some can create whole videos.
+
+
+Q-> List top 3 organisations you like to join in your career & why you like these organisations.
+-> I aim to join an organization where I can enhance my skills and advance my career as a software 
+developer. Currently, I don't have specific organizations in mind; my primary focus is on finding a 
+place where I can learn and grow professionally.
+
+
+Q-> How you position yourself in this industry after 2 years.
+->In two years, I picture myself as an experienced software developer, doing well in projects, keeping 
+up with the latest tech trends, and always learning and improving.
+
+Q-> List 3 projects / products you have built or have planned to build in the upcoming year, also 
+explain your role in the same.
+-> I have build ecommer web app, imdb like website etc.
+but in future i want to work in a project that includes ai/ml and want to learn(ml/ai).
